@@ -37,7 +37,7 @@ const calcTime = () => {
 	}
 }
 
-// stop ftn
+// stop function
 function Stop (){
     clearInterval(startTimer);
 	document.querySelector('.days').innerHTML = '00';
