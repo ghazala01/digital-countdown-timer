@@ -1,0 +1,12 @@
+body {
+	background-color: #eee !important;
+}
+.clock-label {
+	padding-top: 10px;
+	text-transform: uppercase;
+	color: #131313;
+	font-size: 14px;
+	text-align: center;
+}
+
+
